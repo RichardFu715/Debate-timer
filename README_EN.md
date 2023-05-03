@@ -4,6 +4,8 @@
 
 This program could be used in the timing of debate races, with basic functions necessary for most debates.
 
+*Note: This program no longer supports Windows 7 or lower versions. For some reasons, the program could not be opened in such systems.*
+
 ## Version 2.0 (Completed on Oct 16, 2022 and Uploaded on 20 April, 2023)
 
 ### Setting up a debate
